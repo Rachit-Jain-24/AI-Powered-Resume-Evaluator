@@ -1,3 +1,6 @@
 streamlit
 boto3
-sklearn
+scikit-learn
+numpy
+pandas
+python-decouple

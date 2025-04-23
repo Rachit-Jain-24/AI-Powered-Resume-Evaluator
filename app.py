@@ -10,8 +10,8 @@ from resume_parser import extract_text_from_pdf, extract_details, upload_to_s3
 from dynamodb_utils import save_evaluation_resumes
 
 # -------------------- Streamlit Config --------------------
-st.set_page_config(page_title="Smart Resume Evaluator", page_icon="🧠")
-st.title("🧠 Smart Resume Evaluator")
+st.set_page_config(page_title="AI-Powered-Resume-Evaluator")
+st.title("AI-Powered-Resume-Evaluator")
 st.write("Upload your resume and enter the job role you're targeting.")
 
 # -------------------- AWS Credentials --------------------
@@ -175,7 +175,7 @@ if jd_file:
         Kindly review the evaluation and take appropriate action if needed.
 
         Regards,  
-        Smart Resume Evaluator System
+        AI-Powered-Resume-Evaluator
     """
 )
 

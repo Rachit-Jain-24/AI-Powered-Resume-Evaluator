@@ -1,8 +1,16 @@
-  {
-    "Data Scientist": ["Python", "Pandas", "Machine Learning", "Deep Learning", "Statistics", "SQL", "Scikit-learn"],
-    "Web Developer": ["HTML", "CSS", "JavaScript", "React", "Node.js", "MongoDB"],
-    "DevOps Engineer": ["Linux", "Docker", "Kubernetes", "CI/CD", "AWS", "Terraform", "Jenkins"]
-  }
-
-  
-  
+{
+  "Data Scientist": ["Python", "Pandas", "Machine Learning", "Deep Learning", "Statistics", "SQL", "Scikit-learn"],
+  "Web Developer": ["HTML", "CSS", "JavaScript", "React", "Node.js", "MongoDB"],
+  "DevOps Engineer": ["Linux", "Docker", "Kubernetes", "CI/CD", "AWS", "Terraform", "Jenkins"],
+  "Data Analyst": ["Excel", "SQL", "Tableau", "Power BI", "Python", "Data Visualization", "Statistics"],
+  "Machine Learning Engineer": ["Python", "Machine Learning", "TensorFlow", "Keras", "Scikit-learn", "Pandas", "NumPy", "Model Deployment"],
+  "AI Engineer": ["Python", "TensorFlow", "Keras", "PyTorch", "NLP", "Deep Learning", "Reinforcement Learning", "Computer Vision"],
+  "Software Developer": ["Java", "C++", "Python", "JavaScript", "Git", "SQL", "Spring Boot", "React", "Django"],
+  "Full Stack Developer": ["HTML", "CSS", "JavaScript", "React", "Node.js", "Express", "MongoDB", "SQL", "Git"],
+  "Cloud Engineer": ["AWS", "Azure", "Google Cloud", "Terraform", "Docker", "Kubernetes", "Linux", "Networking"],
+  "Cybersecurity Specialist": ["Network Security", "Firewalls", "Cryptography", "Python", "Linux", "Security Auditing", "Penetration Testing"],
+  "Business Intelligence Analyst": ["SQL", "Power BI", "Tableau", "Data Warehousing", "ETL", "Data Modeling", "Excel", "Python"],
+  "Backend Developer": ["Node.js", "Java", "Python", "Ruby", "SQL", "REST APIs", "Docker", "PostgreSQL", "Microservices"],
+  "Front End Developer": ["HTML", "CSS", "JavaScript", "React", "Vue.js", "Angular", "Git", "Web Accessibility"],
+  "Quality Assurance Engineer": ["Test Automation", "Selenium", "Jenkins", "Python", "Java", "Cucumber", "JUnit", "Git"]
+}
